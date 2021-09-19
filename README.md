@@ -22,4 +22,5 @@
 # Usage
 Once deployed, the homepage can be viewed on a traditional web browser.
 
-* <img src="assets/images/horiseon-screenshot.png" alt="Horiseon Screenshot/>  
+* [assets/images/horiseon-screenshot.png] (Screenshot of website)
+
