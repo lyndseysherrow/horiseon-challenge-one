@@ -23,3 +23,9 @@
 Once deployed, the homepage can be viewed on a traditional web browser.
 
 ![horiseon-screenshot](https://user-images.githubusercontent.com/89859979/133912933-3a15e2db-9039-481d-8de1-a90431038571.png)
+
+# Credits
+* Collaborators were staff, TA's and students at the University of Arizona Coding Bootcamp
+
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
