@@ -13,4 +13,5 @@
 * Links were fixed
 
 # Links
-* https://github.com/lyndseysherrow/horiseon-refactor.git
+* <a href="https://github.com/lyndseysherrow/horiseon-refactor.git">Link to GitHub Repository</a>
+* <a href="https://lyndseysherrow.github.io/horiseon-refactor/">Link Deployed Wesbite</a>
