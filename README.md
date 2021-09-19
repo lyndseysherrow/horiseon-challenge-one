@@ -1,20 +1,16 @@
-# Horiseon Challenge One
+# Horiseon Refactor
 
-## User Story
-* AS A marketing agency
-* I WANT a codebase that follows accessibility standards
-* SO THAT our own site is optimized for search engines
+# Description
+* This project is a code refactor for Horiseon's homepage. Without changing the design of the homepage, refactoring was needed to meet accessibility standards and to make the code more efficient. This should result in improved SEO. 
 
-## Acceptance Criteria
-* GIVEN a webpage meets accessibility standards
-* WHEN I view the source code
-* THEN I find semantic HTML elements
-* WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning*
-* WHEN I view the image elements
-* THEN I find accessible alt attributes
-* WHEN I view the heading attributes
-* THEN they fall in sequential order
-* WHEN I view the title element
-* THEN I find a concise, descriptive title
+# Tasks Completed
+* Original HTML elements were replaced with semantic HTML elements
+* Alt attributes added to images for accessibility standards
+* Consolidated repeating classes
+* Explanatory comments were added in both HTML and CSS files
+* CSS reorganized to meet sequential order
+* A descriptive title was added
+* Links were fixed
 
+# Links
+* https://github.com/lyndseysherrow/horiseon-refactor.git
