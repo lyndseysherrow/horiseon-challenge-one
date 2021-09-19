@@ -14,4 +14,12 @@
 
 # Links
 * <a href="https://github.com/lyndseysherrow/horiseon-refactor.git">Link to GitHub Repository</a>
-* <a href="https://lyndseysherrow.github.io/horiseon-refactor/">Link Deployed Wesbite</a>
+* <a href="https://lyndseysherrow.github.io/horiseon-refactor/">Link to Deployed Wesbite</a>
+
+# Installation
+* Upload index.html and assets folder. The assets folder contains CSS files and images.
+
+# Usage
+Once deployed, the homepage can be viewed on a traditional web browser.
+
+* <img src="assets/images/horiseon-screenshot.png" alt="Horiseon Screenshot/>  
